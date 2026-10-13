@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Stephenmutura/stephenmutura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Stephen 👋
 
-Here are some ideas to get you started:
+ICT graduate (Diploma in Information Communication Technology, 2026) based in Kenya, looking for an ICT internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Completed an industrial attachment at NHIF
+- Studying conservation technology through the Connected Conservation Foundation (CCF) Protected Area Technician Training Program
+
+## What I'm learning
+- 📡 IoT and sensor networks (LoRaWAN, ChirpStack)
+- 🗺️ GIS and spatial data (QGIS, PostGIS)
+- 🦁 Conservation tools (EarthRanger, SMART)
+- 🗄️ Data management and software integration
+
+## Languages & tools
+- **Languages:** C++, JavaScript
+- **Data & GIS:(learning)** PostGIS, QGIS
+- **IoT & conservation:** LoRaWAN, ChirpStack, EarthRanger, SMART
+
+## Outside of tech
+- 🌿 Exploring nature
+- 🎵 Music
+- 📚 Reading
+
+## Get in touch
+- 📧 stephenmuturanjoroge1@gmail.com
