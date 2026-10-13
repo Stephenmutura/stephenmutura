@@ -15,7 +15,7 @@ ICT graduate (Diploma in Information Communication Technology, 2026) based in Ke
 
 ## Languages & tools
 - **Languages:** C++, JavaScript
-- **Data & GIS:(learning)** PostGIS, QGIS
+-- **Data & GIS (learning):** PostGIS, QGIS
 - **IoT & conservation:** LoRaWAN, ChirpStack, EarthRanger, SMART
 
 ## Outside of tech
