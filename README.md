@@ -1,7 +1,7 @@
 
 # Hi, I'm Stephen 👋
 
-ICT graduate (Diploma in Information Communication Technology, 2026) based in Kenya, looking for an ICT internship.
+ICT graduate (Diploma in Information Communication Technology, 2026) based in Kenya.
 
 ## What I do
 - Completed an industrial attachment at NHIF
